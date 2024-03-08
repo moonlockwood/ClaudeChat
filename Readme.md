@@ -6,7 +6,7 @@ It separates out code and saves it to files.
 
 ## Notes
 
-This is a starting point to build local custom chat clients with tight integration with an ide or application.
+This is a starting point to build local custom chat clients for tight integration with an ide or application.
 
 ## Requirements
 

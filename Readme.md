@@ -1,6 +1,6 @@
 ## Claude Chat
 
-A simple chat application framework that uses the Claude API and uses the PyQt5 library for the gui.
+A simple chat application framework that uses the Claude API and the PyQt5 library for the gui.
 
 It separates out code and saves it to files.
 
